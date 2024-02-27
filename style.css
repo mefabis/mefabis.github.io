@@ -11,8 +11,10 @@ body {
 }
 
 .square {
-    width: 200px;
-    height: 200px;
+    width: 80vmin;
+    height: 80vmin;
+    min-width: 300px;
+    min-height: 300px;
     background-color: black;
     border: 2px solid white;
     display: flex;
@@ -20,6 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-size: 7vmin;
 }
 
 .square about {
@@ -29,7 +32,7 @@ body {
 }
 
 .square a {
-    color: white;
+    color: cyan;
     text-decoration: none;
     margin: 5px;
 }
