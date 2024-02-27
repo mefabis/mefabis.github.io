@@ -1,0 +1,45 @@
+body {
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.square about {
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.square a {
+    color: blue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.square email {
+    color: blue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.square email span:nth-child(2n + 1) {
+    display: none;
+}
