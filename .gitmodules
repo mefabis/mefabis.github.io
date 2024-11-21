@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-nostyleplease"]
+	path = themes/hugo-theme-nostyleplease
+	url = https://github.com/mefabis/hugo-theme-nostyleplease
+	shallow = true
