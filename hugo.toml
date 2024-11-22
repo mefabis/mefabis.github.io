@@ -35,6 +35,7 @@ description = 'mondongo'
     ordered = false
 
 [params]
+favicon = "favicon.ico"
   [params.theme_config]
     appearance = "auto"
     back_home_text = "index"
