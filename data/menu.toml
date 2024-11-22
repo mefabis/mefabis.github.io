@@ -25,7 +25,7 @@ title = "social"
 
   [[entries.entries]]
   title = "email"
-  url = "mailto:\"Eduardo Martínez Martínez<eduardo@monte.blue>\""
+  url = "mailto:\"Eduardo Martínez Martínez <eduardo@monte.blue>\""
 
   [[entries.entries]]
   title = "git"
@@ -44,7 +44,7 @@ title = "unless stated otherwise, all my original content is licensed under:"
 
   [[entries.entries]]
   title = "Media: CC-BY-SA-4.0"
-  url = "https://spdx.org/licenses/preview/CC-BY-SA-4.0.html"
+  url = "https://creativecommons.org/licenses/by-sa/4.0/"
 
   [[entries.entries]]
   title = "Code: GPL-3.0-only"
