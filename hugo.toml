@@ -1,6 +1,6 @@
 baseURL = 'https://monte.blue/'
 languageCode = 'en-us'
-title = '🏔 ️monte.blue'
+title = 'monte.blue'
 theme = 'hugo-theme-nostyleplease'
 description = 'mondongo'
 
@@ -40,3 +40,4 @@ description = 'mondongo'
     back_home_text = "index"
     date_format = "02 January 2006"
     isListGroupByDate = false
+    main_title = '🏔 ️monte.blue'
