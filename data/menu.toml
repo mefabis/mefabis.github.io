@@ -54,4 +54,7 @@ title = "unless stated otherwise, all my original content is licensed under:"
 title = "blog"
 
   [entries.post_list]
+  limit = 0
   show_more = false
+  show_more_text = ""
+  show_more_url = ""
