@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "La Montaña Azul del Cabezo de Torres"
-date: 2024-12-07
+date: 2025-01-19
 ---
 
 ---
@@ -18,17 +18,69 @@ date: 2024-12-07
 
 En la pedanía de Cabezo de Torres, al norte del municipio de Murcia (España), se encuentra una obra de arte; deteriorada e ignorada, pero de arte.
 
+{{< rawhtml >}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1153.0178408463842!2d-1.1230390104522872!3d38.025645151007396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6383cf70524ccd%3A0x9b46fd6cf613d349!2sLa%20Monta%C3%B1a%20Azul!5e1!3m2!1sen!2sie!4v1737411298078!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{< /rawhtml >}}
+
 Es conocida como la Montaña Azul, por motivos obvios.
 
-![monte00](./monte00.jpg "La montaña azul vista desde el jardín frente a la iglesia. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+![monte00](./monte00.jpg "La montaña azul vista desde el jardín frente a la iglesia, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
 
-![monte01](./monte01.jpg "Plano cercano a la montaña. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+![monte01](./monte01.jpg "Plano cercano a la montaña, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
 
-Vale, ¿y a quién se le ocurrió crear esta obra, y por qué?
+Fue pintada por Diego, vecino de la pedanía. Comenzó en 1999 hasta 2003, a lo que siguió un parón de cinco años hasta 2008 cuando Diego volvió para añadir, entre otras cosas, el color blanco para simular unos picos nevados.
+
+![monte08](./monte08.jpg "Palomares y montaña pintados, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+
+![monte09](./monte09.jpg "Cruz que corona la montaña, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+
+Ocupa aproximadamente 9920 metros cuadrados, se encuentra en el barrio del Cabezo de la Cruz. Al encontrarse en lo alto de una colina, añadido que Murcia está en un valle, se puede ver desde bien lejos, por ejemplo desde la rotonda de los cubos de Murcia se puede ver con claridad.
+
+![monte10](./monte10.jpg "Plano aéreo de la obra, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+
+![monte16](./monte16.webp "Vistas desde lo alto del promontorio, diciembre 2024. Fuente propia")
+
+No solo pintó la montaña, también decoró muros, rejas, canaletas, etc.
+
+Me pasé recientemente a fotografiar la zona. Aquí están algunas de las fotos que son más interesantes.
+
+![monte12](./monte12.webp "Muro con los planetas, diciembre 2024. Fuente propia")
+
+![monte13](./monte13.webp "Inicio de la subida a la cruz, diciembre 2024. Fuente propia")
+
+![monte14](./monte14.webp "Más detalles de la subida, diciembre 2024. Fuente propia")
+
+![monte15](./monte15.webp "Planos de la montaña azul, diciembre 2024. Fuente propia")
+
+![monte17](./monte17.webp "Primer plano de la cruz, diciembre 2024. Fuente propia")
+
+![monte18](./monte18.webp "Más detalles de la cruz, diciembre 2024. Fuente propia")
+
+![monte19](./monte19.webp "Parte lateral de la montaña vista desde arriba, diciembre 2024. Fuente propia")
+
+![monte20](./monte20.webp "Aparcamiento de la zona, diciembre 2024. Fuente propia")
+
+![monte22](./monte22.webp "Más detalles del aparcamiento, diciembre 2024. Fuente propia")
+
+![monte23](./monte23.webp "La casa de Diego, autor de la montaña azul, diciembre 2024. Fuente propia")
+
+![monte24](./monte24.webp "Más detalles de la casa, diciembre 2024. Fuente propia")
+
+![monte25](./monte25.webp "Barandillas pintadas, diciembre 2024. Fuente propia")
+
+El paso del tiempo y la total dejadez de las administraciones ha propiciado la erosión muchas partes de la obra, como se evidencia sobre todo con el buzón de la casa de Diego.
+
+![monte04](./monte04.jpg "En 2011, el buzón de la casa de Diego. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+
+![monte05](./monte05.webp "En diciembre del 2024, el mismo buzón. Fuente propia")
+
+Como habrás podido apreciar, la obra emana una aura mística, con el dibujo de crucifijos, el aspecto relativamente medieval o la representación de los planetas.
+
+Todo esto fue a propósito, tiene una razón de ser, pero para poder entender la iconografía primero hay que hablar de su autor, Diego, conocido y autodenominado _El Profeta_.
 
 # Un artista marginal
 
-Su autor fue Diego López Martínez, alias El Profeta, protagonista de este artículo.
+El autor de esta obra fue Diego López Martínez, alias El Profeta, protagonista de este artículo.
 
 Nació el 28 de agosto del 1964, creció en Cabezo de Torres junto a su hermano mayor, Matías, y a su madre, Asunción. Su padre, también Matías, falleció en un accidente de moto a los pocos meses de nacer.
 
@@ -83,7 +135,7 @@ Diego intercala entre la narración de su vida valoraciones sobre lo que él con
 
 Para él, la negativa era la vida de drogas y desmadre, incluido las personas del ocio nocturno pero también cualquiera que se pusiera en su camino y le llevase mínimamente la contra. Tiene especial fijación por tachar a las mujeres de _energía negativa_, entre otras cosas por la relación tormentosa que tenía con su madre por su estilo de vida (el de él, por supuesto), pero también por las revelaciones que le llevaron a pintar la montaña azul, la obra que nos atañe en este artículo. La positiva, por contra, era todo lo que no era energía negativa, en resumidas cuentas, el pintar la montaña e ir sobrio.
 
-Uno de los relatos más impactantes fue su relación con Ascen. A la pobre Ascen le ocurrió lo siguiente con unos gitanos...
+Uno de los relatos más impactantes fue su relación con Ascen. A la pobre Ascen le ocurrió lo siguiente...
 
 > [...] con una novia que se llamaba Ascen, estos gitanos nos llevaron a la Cresta del Gallo y me amenazaron para que se lo hicieran con esta chica y yo cedí y se la follaron todos y entonces me volvieron a amenazar para quedar otro día [...]
 
@@ -146,17 +198,43 @@ TODO: estoy por aquí
 
 # Un gran archivo documental
 
-Llegados a este punto, debería hablar de todas las fuentes. Realmente merece su propio apartado, dada la ingente cantidad de información disponible sobre la obra. Uno se hace la idea ya con todo lo redactado anteriormente, pero me gustaría enseñar la imagen de acontinuación, un cartel que escribió el mismo Diego.
+Llegados a este punto, debería hablar de todas las fuentes. Realmente merece su propio apartado, dada la ingente cantidad de información disponible sobre la obra. Uno se hace la idea ya con todo lo redactado anteriormente, pero me gustaría enseñar, primero de todo, la imagen de acontinuación, un cartel que escribió el mismo Diego.
 
-![monte03](./monte03.jpg "Cartel colgado en la fachada de su casa en la Calle de la Cruz. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+![monte03](./monte03.jpg "Cartel colgado en la fachada de su casa en la Calle de la Cruz, 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
 
-# El legado de Diego
+Como bien explica el cartel, escribió [su vida en un blog](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html), pero también subió más de 900 vídeos a YouTube en, hasta donde he podido indagar, dos canales y uno más que tengo dudas.
+
+[Su primer canal](https://www.youtube.com/@diegoelprofeta3). Aquí empezó a grabarse en su día a día, predicando la palabra de Dios. Sospecho que perdió la contraseña del canal por lo que dejó de subir aquí. Por ejemplo este es su primer vídeo.
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoODW4su6X0?si=uPHz7uGHkMb2dZNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+[Su segundo canal](https://www.youtube.com/@3elprofeta). Aquí ya subió el resto de vídeos, siendo el último vídeo blog el número 937. Alguno de sus vídeos destacados es este donde explica su idea de la energía negativa, u otro donde canta.
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0KGW8CL1NcE?si=IsySFORlSkv76wMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nbv_GUeoJZU?si=tjX390ks3gxqBrTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+Por último, el que tengo dudas, es un [canal con ediciones en Loquendo](https://www.youtube.com/@InvocacionesMarianas). Por ejemplo, en [este vídeo](https://youtu.be/5Tl6_4L9lrM), si se leen los comentarios del autor, no queda claro si es una parodia, algún seguidor de Diego o el mismo Diego haciéndose pasar por otra persona.
+
+![monte26](./monte26.png "Comentarios del vídeo")
+
+Un último apunte respecto al tercer canal, repsecto al comentario que dice "[...] pero que no podía seguir en contacto con nosotros debido a motivos supremos [...]", quizá sea una idea descabellada, pero sería curioso que estos amigos fueran los del grupo de espiritismo al que Diego asisitió un tiempo pero terminó dejando porque no le convencía.
+
+> Subí al Cabezo, al pie de la cruz, como hacia muy a menudo y una chica que es francesa y tiene mas hermanos y hermanas, que viven subiendo la cuesta antes del pavo a la derecha, Me dijo ¿Tú sabes? ¿Quién eres? Y yo, con seguridad, le dije Jesucristo. Y me dijo, que ya lo sabía ella y sus hermanos, que son de la época de Jesucristo del pasado y que se comunican conmigo telepáticamente, desde niños y que me llaman el hermano Mayor y que yo les había comunicado que me verían como Jesucristo en el Cabezo de la Cruz y fueron todos a verme. Después fuimos quedando para hablar de este tema y me comentaron que yo venía al mundo para destruir la Iglesia Católica y que me entraría la energía del cristo del pasado, presente y futuro. Ellos tenían una habitación donde realizaban sesiones de retrocesiones o algo parecido. Pues me hicieron ir y me taparon los ojos y yo tenía que decir, ves piedras y son mis miedos, etc…. Al final no me convenció ese rollo y los dejé y no nos volvimos a ver.
+
+# El legado de Diego, patrimonio del pueblo
 
 ---
 
 Fuentes:
 * Si algún página no fuera accesible, hay copias de seguridad en <https://web.archive.org> o <https://archive.is>.
-* He intentado hacer una copia de seguridad de todos los vídeos de YouTube.
+* He intentado hacer una copia de seguridad de todos los vídeos de YouTube. No está subida en ningún sitio público, sino en mi ordenador personal.
 * YouTube
   * Vídeos subidos por el mismo Diego
     * https://www.youtube.com/@diegoelprofeta3
@@ -182,9 +260,12 @@ Fuentes:
     * https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf
     * http://revista-sanssoleil.com/wp-content/uploads/2016/12/Mu%C3%B1oz-Rein%C3%B3n-Juan-Manuel.pdf
 * Prensa
+  * Entrevista a Diego: https://www.20minutos.es/noticia/373753/0/monte/cabezo/pintura/
   * https://www.20minutos.es/noticia/366307/0/cabezo/torres/azul/
   * https://www.20minutos.es/noticia/373216/0/monte/azul/murcia/
+  * https://www.larazon.es/murcia/esta-ciudad-espanola-montana-azul-curiosa-explicacion_202309166505dfde98383a00012088b7.html
   * Obituario: https://www.laopiniondemurcia.es/comunidad/2017/05/07/adios-profeta-montana-azul-31892078.html
 * Miscelánea
+  * Web de turismo de la Región de Murcia: https://www.turismoregiondemurcia.es/es/lugar_de_interes/montana-azul-de-cabezo-de-torres-9892/
   * Un libro de espiritualidad sospechosamente parecido a la historia de Diego: https://www.caminoporlacosta.es/el-profeta-de-la-montana-azul-un-viaje-espiritual-revelador/?expand_article=1
   * Enigmático blog donde se menciona a Diego: https://escombrismo.blogspot.com/2009/05/diego-el-profeta-y-la-montana-azul.html
