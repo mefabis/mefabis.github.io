@@ -1,60 +1,8 @@
 [[entries]]
-title = "info"
-
-  [[entries.entries]]
-  title = "My name is Eduardo Martínez Martínez"
-
-  [[entries.entries]]
-  title = "I'm a Computer Engineer from Murcia, Spain"
-
-  [[entries.entries]]
-  title = "I enjoy nature, culture and computers"
-
-[[entries]]
-title = "projects"
-
-  [[entries.entries]]
-  title = "empty, for now ;)"
-
-[[entries]]
-title = "social"
-
-    [[entries.entries]]
-    title = "rss"
-    url = "index.xml"
-
-  [[entries.entries]]
-  title = "email"
-  url = "mailto:\"Eduardo Martínez Martínez <eduardo@monte.blue>\""
-
-  [[entries.entries]]
-  title = "git"
-  url = "https://github.com/mefabis"
-
-  [[entries.entries]]
-  title = "bluesky"
-  url = "https://bsky.app/profile/monte.blue"
-
-  [[entries.entries]]
-  title = "linkedin"
-  url = "https://linkedin.com/in/eduamart"
-
-[[entries]]
-title = "unless stated otherwise, all my original content is licensed under:"
-
-  [[entries.entries]]
-  title = "Media: CC-BY-SA-4.0"
-  url = "https://creativecommons.org/licenses/by-sa/4.0/"
-
-  [[entries.entries]]
-  title = "Code: GPL-3.0-only"
-  url = "https://spdx.org/licenses/GPL-3.0-only.html"
-
-[[entries]]
 title = "blog"
 
-  [entries.post_list]
-  limit = 0
-  show_more = false
-  show_more_text = ""
-  show_more_url = ""
+[entries.post_list]
+limit = 0
+show_more = false
+show_more_text = ""
+show_more_url = ""
