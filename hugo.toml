@@ -38,7 +38,7 @@ hasCJKLanguage = true
 favicon = "favicon.ico"
   [params.theme_config]
     appearance = "auto"
-    back_home_text = "index"
+    back_home_text = "«— home"
     date_format = "02 January 2006"
     isListGroupByDate = false
     main_title = '🏔 ️monte.blue'
