@@ -44,7 +44,7 @@ Si contamos toda la extensión del montículo, aunque hayas partes más decorada
 
 No solo pintó la montaña, también decoró muros, rejas, canaletas, etc.
 
-Me pasé el diciembre del año pasado a fotografiar la zona, como muestro a continuación. El paso del tiempo y la total dejadez de las administraciones ha propiciado la erosión de muchas partes de la obra.
+Me pasé en diciembre del año pasado a fotografiar la zona, como muestro a continuación. El paso del tiempo y la total dejadez de las administraciones ha propiciado la erosión de muchas partes de la obra.
 
 ![monte34](./monte34.jpg "Muro con mensaje de bienvenida, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
@@ -104,7 +104,7 @@ Nació el 28 de agosto del 1964, creció en Cabezo de Torres junto a su hermano 
 
 ![monte02](./monte02.jpg "Diego el Profeta. [Fuente](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html)")
 
-¿Cómo sé todo esto? Fácil, porque escribió [gran parte de su vida en un blog](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html). Es bastante extensa (tiene 24609 palabras). Aquí iré resumiendo los detalles más interesantes de su vida, intercalando con citas del mismo texto y documentación que he ido recopilando.
+¿Cómo sé todo esto? Fácil, porque escribió [gran parte de su vida en un blog](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html). Es bastante extenso (tiene 24609 palabras). Aquí iré resumiendo los detalles más interesantes de su vida, intercalando con citas del mismo texto y documentación que he ido recopilando.
 
 Asistió al colegio Salesianos del pueblo como medio pensionista. Participaba en las misas del pueblo como monaguillo.
 
@@ -127,7 +127,7 @@ Menchu, de Murcia... Quien tenga algo de cultura española televisiva igual ha a
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FN2-SbuY1_s?si=pLGuxcF_FSoebIdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-Investigando un poco más sobre ella, di con una entrevista (dividida en dos vídeos) que le hicieron.
+Investigando un poco más sobre ella, di con una entrevista que le hicieron, dividida en dos vídeos.
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CwLn0S5wY6A?si=FXz7pDLsY9q0ToER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -159,15 +159,15 @@ Uno de los relatos más impactantes fue su relación con Ascen. A la pobre Ascen
 
 Luego marcharon a Zaragoza tras este terrible suceso, rompieron al poco de desplazarse.
 
-Salió en esta ciudad con otra chica, Sara, quien tras una noche de borrachera, volvieron a dormir a su refugio, un edifico en construcción parado, y la chica se precipitó por el hueco del ascensor, partiéndose el cráneo y falleciendo en el acto.
+Salió en esta ciudad con otra chica, Sara, quien tras una noche de borrachera, volvieron a dormir a su refugio, un edifico a medio construir, y la chica se precipitó por el hueco del ascensor, partiéndose el cráneo y falleciendo en el acto.
 
-Diego aseguró en comisaría y en su historia que no fue su culpa, y que tras esto empezó a tener ataques epilépticos, cada pocos meses, durante años, los cuales le dejaban echo polvo. Ya a estas alturas, uno se hace la idea del contexto que le llevó a pintar una montaña de azul mientras se autodenominaba _el profeta_.
+Diego aseguró en comisaría y en su historia que no fue su culpa, y que tras esto empezó a tener ataques epilépticos, cada pocos meses, durante años, los cuales le dejaban hecho polvo. Ya a estas alturas, uno se hace la idea del contexto que le llevó a pintar una montaña de azul mientras se autodenominaba _el profeta_.
 
 Hasta los dieciocho fue vagando de ciudad en ciudad, conociendo personas como él, haciendo amigos adonde fuera. Una vez alcanzó los 18, empezó la mili en León, aunque duró poco tras ser encerrado en calabozo e intentar cortarse las venas. Consiguió la exención total.
 
 > Ya entrando en la juventud, estaba hecho una pena, sin dientes, me faltaban algunos, con cicatrices en todo el cuerpo y enganchado a la heroína, barbitúricos y demás, desequilibrado total.
 
-Un tiempo después, el jefe de su madre Asunción y Don Pedro, un sacedorte del Salesianos, le convencieron para internarse en un centro de desintoxicación. Le sirvió durante un tiempo. Viajó tanto por España como por Portugal (Santa Margarita, después en Aveiro, Torres Vedras, etc.). Hacía terapia de grupo y lo tenían entretenido. Allí descubrió que se le daba bien vender libros.
+Un tiempo después, el jefe de su madre Asunción y Don Pedro, un sacerdote del Salesianos, le convencieron para internarse en un centro de desintoxicación. Le sirvió durante un tiempo. Viajó tanto por España como por Portugal (Santa Margarita, después en Aveiro, Torres Vedras, etc.). Hacía terapia de grupo y lo tenían entretenido. Allí descubrió que se le daba bien vender libros.
 
 Con 23 años fue a Alicante, con lo de los libros consiguió un poco de estabilidad, hasta se desenganchó de las drogas un tiempo, pero volvió a caer, así una y otra vez a lo largo de su vida...
 
@@ -196,7 +196,7 @@ Ahora viene lo bueno. En este preciso instante, Diego tuvo la revelación que le
 > Entonces allí tuve mi primera revelación de la divinidad, estuve con una amiga de fiesta, Reme, que esta chica también intentaba anteponerse en mi misión, por medio del universo. El caso es que al separarme de Susi, ella apareció para introducirse en mi manifestación. Estuvo conmigo durante unas semana y un día fuimos a la Cresta el Gallo, donde Dios se me manifestó claramente en formas de nubes que en un vídeo de Antena 3 y en Internet, montaña azul, lo explico. Me dijo con dibujos claros que yo tenía que destruir a la energía negativa, primero con la figura de él, Dios, en las nubes como lo pintó la Iglesia Católica, con su rostro y durante tres minutos, algo muy claro. Seguidamente se deshicieron, esas nubes y se transformaron en el mismo rostro, expulsando un soplido de la boca y enfrente destruyendo la imagen de un demonio. Esto también duró unos tres minutos y seguidamente las imágenes se deshicieron y volvió a transformarse enfrente de nosotros, la imagen de Dios con el puño alzado como diciendo fuerza.
 
 No dudó en contar lo que vio, a lo que su madre le dijo _¡calla loco!_ Pero Diego nunca olvidó esta visión, empezó a _detectar_ señales, indicios de que él era el mesías.
-Volvió con Susi ya que nació Noel; lo dejaron, volvió a la fiesta... En una ocasión, en casa de su amigo Jesús de Orihuela, hasta la televisión le transmitío mensajes.
+Volvió con Susi ya que nació Noel; lo dejaron, volvió a la fiesta... En una ocasión, en casa de su amigo Jesús de Orihuela, hasta la televisión le transmitió mensajes.
 
 > Al principio me quedaba en su casa viendo películas en el vía satélite, donde me comunicaba con las películas, que cada película era una explicación de mi misión en la vida. Algo un tanto difícil de entender para las personas normales.
 
@@ -208,7 +208,7 @@ En este estado, anduvo hacia el monasterio de los Franciscanos, vio claro que er
 
 De camino a Murcia, cogió un saco donde fue echando peso, con verduras, patatas, melones; y se lo echó al hombro, haciéndole sentirse Jesucristo en la penitencia. A su vez, recibía mensajes telepáticos que le insistían en seguir la ruta del penitente a su cruz, en la que sería la futura montaña azul.
 
-Fue vagando los campos de Murcia, su bellísima catedral, el hotel Churra..., añadiendo peso a su cruz, mientras tenía sentimientos de _miedo, pasión y agonía_.
+Fue vagando por los campos de Murcia, su bellísima catedral, el hotel Churra..., añadiendo peso a su cruz, mientras tenía sentimientos de _miedo, pasión y agonía_.
 
 Entonces, empezó a pintar. Primero, un cartel de hojalata, de fondo negro y el texto INRI en azul, que fue colgado en la cruz del Cabezo. Luego pintó con pintura _azul luminosa_ encima de _lo negro_ de las paredes de su barrio. Todavía no había pintado el monte. Fue por este momento cuando empezó a ir a misa y a tener problemas, tanto con los asiduos de la iglesia por interrumpir la misa como con los vecinos por motivos diversos.
 
@@ -232,7 +232,7 @@ Mientras tanto, siguió con su obra. Tras haber pintado cerca de su casa, constr
 >
 > Estos huecos fueron pintados de color azul, el color que destruye a la energía negativa, [...], entonces pinté todo, el peñasco llamado piedra recuyente, en este peñasco nos tirábamos de pequeños en forma de tobogán, empecé a las 6:00 de la mañana y entre paletinazos del 33, arriba y abajo, hasta la hora de la misa, un día, otro día y al final en una semana el monte, se veían una manchita azul.
 
-Con la pintura de las piedras surgió la alarma, tanto como para avisar a la policía. Tras hablar los agentes y Diego, avisaron a Manuél López, el alcalde y al administrador porque según el artista este le había dado permiso. El alcalde le preguntó hasta dónde pintaría y le dejó hacer lo que le dijo. A Diego le pareció irónico que a toda esta gente le molestara las pintadas y el supuesto deterioro del monte pero no que el mismo estuviera de antes lleno de basura y escombros.
+Con la pintura de las piedras surgió la alarma, tanto como para avisar a la policía. Tras hablar los agentes y Diego, avisaron al alcalde, Manuel López, y al administrador porque según el artista este le había dado permiso. El alcalde le preguntó hasta dónde pintaría y le dejó hacer lo que le dijo. A Diego le pareció irónico que a toda esta gente le molestara las pintadas y el supuesto deterioro del monte pero no que el monte estuviera lleno de basura y escombros.
 
 Entonces, La Opinión de Murcia escribió un artículo sobre el suceso, un hombre estaba pintando el monte _porque decía que veía al diablo_ (no he podido encontrar dicho artículo). Esto fue el detonante para que otros medios de comunicación se pasaran también a documentar el hecho y entrevistarse con su autor.
 
@@ -282,7 +282,7 @@ Todas estas entrevistas ayudaron a mejorar la imagen de Diego en el pueblo, algo
 
 A raíz de todo el bombo, el artista empezó a recibir ayudas por parte del ayuntamiento y de algunos locales. Aparte, un gran beneficiado de esta obra fue el dueño del bar de Las Cumbres, que con la viralidad de los reportajes atrajo a muchos curiosos que paraban a tomar algo ahí. Asimismo, Diego le reconstruía las paredes gratis, porque formaban parte de su castillo.
 
-Una anécdota que recuerda con resentimiento es que Asunción, su madre, empieza a impedir que Diego cene con la familia en Nochebuena; le daba una bolsa de carne para que se la asara él solo. Los problemas familiares eran palpables, existían tales tensiones como para que también tabicara el acceso entre las dos viviendas de la familia, la de la Calle de la Cruz, ocupada por Diego, con la de la Calle de la Virgen, de su madre y hermano.
+Una anécdota que recuerda con resentimiento es que Asunción, su madre, impedió que cenase con la familia en Nochebuena; le daba una bolsa de carne para que se la asara él solo. Los problemas familiares eran palpables, existían tales tensiones como para que también tabicara el acceso entre las dos viviendas de la familia, la de la Calle de la Cruz, ocupada por Diego, con la de la Calle de la Virgen, de su madre y hermano.
 
 Me gustaría resaltar otra cita. Intento ceñirme a la narrativa de su vida, saltando un poco sus reflexiones metafísicas, pero este texto me resulta poético:
 
@@ -300,9 +300,9 @@ En total su estancia en Cabezo de Torres fueron tres años seguidos donde Diego 
 
 En Cádiz volvió a encontrarse con viejos amigos de cuando estuvo vagando por el país. Después de Cádiz fue a Granada, asistió a un festival llamado el Dragón, celebrado en medio de las Alpujarras granadinas. Luego le siguió Navarra con los San Fermines, tras esto Lugo y de vuelta a Granada.
 
-En Lugo conoció a una chica llamada Mónica, que tenía algún tipo de trastorno mental y era hipersexual. Con Diego era muy estricta en la cama, ella debía tener tres orgasmos por cada corrida suya. Esta chica se fue a estudiar veterinaria a Las Palmas. Como Diego estaba colado por ella, se fue a visitarla, hasta que en Fuerteventura vio que le pasaba algo raro. Sin mediar palabra le metía la mano al paquete de un amigo que ahí estaba, o salió a la carretera desnuda, metiendo mano a todos los hombres a su paso... Al final tuvieron que buscarla a un restaurante y avisar a una ambulancia para que la trataran.
+En Lugo conoció a una chica llamada Mónica, que tenía algún tipo de trastorno mental y era hipersexual. Con Diego era muy estricta en la cama, ella debía _tener tres orgasmos por cada corrida suya_. Esta chica se fue a estudiar veterinaria a Las Palmas. Como Diego estaba colado por ella, se fue a visitarla, hasta que en Fuerteventura vio que le pasaba algo raro. Sin mediar palabra le metía la mano al paquete de un amigo que ahí estaba, o salió a la carretera desnuda, metiendo mano a todos los hombres a su paso... Al final tuvieron que buscarla a un restaurante y avisar a una ambulancia para que la trataran.
 
-A todo esto, le embargaron la casa de la calla de la cruz, por una deuda con la Seguridad Social. Del embargo recibió 1500 euros que sobraron. Discutió con su madre Asunción por teléfono de este asunto.
+A todo esto, le embargaron la casa de la calla de la cruz, por una deuda con la Seguridad Social. Del embargo recibió 1500 euros que sobraron. Discutió con su madre Asunción por teléfono por este asunto.
 
 En Granada dormía donde podía, o bien en casas de amigos, en albergues, o hasta en la calle. Tras esto fue a Ibiza, alternando con viajes a Formentera. En un momento dado, se fue a Tenerife, donde recibió un encargo divino un tanto peculiar.
 
@@ -312,7 +312,7 @@ A partir de este punto ya viajaba sin parar por España. En algún momento viaj�
 
 Entre fiestas, drogas y sexo, en algún momento enfermó de VIH. Llegó a estar hospitalizado en el hospital de la Candelaria o el de La Laguna.
 
-Finalmente decide volver a Murcia, donde discute con su madre y su hermano por los problemas de la vivienda. Ahí también decide visitar a sus dos hijos, Óscar y Noel. Ambos se encuentraban en un correcional de Alicante, aunque solo pudo ver a Noel. Según la madre ambos fueron enviados ahí por mala conducta con la familia. Es una lástima ver lo que una familia desestructurada puede acarrear a los hijos.
+Finalmente decide volver a Murcia, donde discute con su madre y su hermano por los problemas de la vivienda. Ahí también decide visitar a sus dos hijos, Óscar y Noel. Ambos se encontraban en un correccional de Alicante, aunque solo pudo ver a Noel. Según la madre, ambos fueron enviados ahí por mala conducta con la familia. Es una lástima ver lo que una familia desestructurada puede acarrear a los hijos.
 
 Las Cumbres volvió a pedir pintar todo el techado del aparcamiento:
 
@@ -322,7 +322,7 @@ Tras el aparcamiento, volvió a pintar la montaña. Repintó las cumbres de blan
 
 > Entonces seguí pintando también parte de azul que estaba descolorido e hice unas franjas de verde en la parte de abajo, así formaban tres colores, aunque el que predomina es el azul, [...]
 
-En esta ocasión también vinieros medios de comunicación, como La Verdad, La Opinión, La Sexta, 20 Minutos, Agencia Efe o la 7 Región de Murcia. Solo de estos dos últimos pude encontrar información, como estos tres artículos de 20 Minutos: [uno](https://www.20minutos.es/noticia/366307/0/cabezo/torres/azul/), [dos](https://www.20minutos.es/noticia/373216/0/monte/azul/murcia/) y [tres](https://www.20minutos.es/noticia/373753/0/monte/cabezo/pintura/).
+En esta ocasión también vinieron medios de comunicación, como La Verdad, La Opinión, La Sexta, 20 Minutos, Agencia Efe o la 7 Región de Murcia. Solo de estos dos últimos pude encontrar información, como estos tres artículos de 20 Minutos: [uno](https://www.20minutos.es/noticia/366307/0/cabezo/torres/azul/), [dos](https://www.20minutos.es/noticia/373216/0/monte/azul/murcia/) y [tres](https://www.20minutos.es/noticia/373753/0/monte/cabezo/pintura/).
 
 En la agencia EFE:
 
@@ -342,7 +342,7 @@ En 7 Región de Murcia, he encontrado dos entrevistas:
 
 Tuvo problemas de dinero para financiar la obra, así que con la ayuda de la prensa y la televisión recabó algo de dinero que le ayudó en su cometido. También pidió financiación imprimiendo unos _trípticos informativos_, los cuales dejaba en hoteles de la provincia.
 
-Viajó durante más de tres meses por Murcia y luego por pueblos de España para dar entrevistas y publicitar su obra. Me gustaría resaltar esta cita donde habla sobre su satisfacción al ver que era valorado por pintar la montaña, .
+Viajó durante más de tres meses por Murcia y luego por pueblos de España para dar entrevistas y publicitar su obra. Me gustaría resaltar esta cita donde habla sobre su satisfacción al ver que era valorado por pintar la montaña.
 
 > Todo esto, yo solo apoyado por algún lado con algunos donativos de gente a favor de mis actuaciones en la región de Murcia, me trataban con mucho cariño y muy interesados de el porque lo pintaba y que siguiera adelante que el ochenta por ciento me apoyaba y me apoya, eso para mi fue muy gratificante, pues yo al principio creía que me iban a matar por pintar un monte y es todo lo contrario, han visto que he hecho algo único en su Tierra, en nuestra Tierra, y al mismo tiempo que soy un personaje especial murciano.
 >
@@ -356,7 +356,7 @@ En Tenerife pensó en si marchar a tener una vida asceta en la India, o quizá e
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoODW4su6X0?si=uPHz7uGHkMb2dZNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-Y hasta aquí está documentado la vida de un auténtico _personaje especial murciano_ como fue Diego.
+Pasó el resto de sus días en Tenerife, falleció sobre el 2013 ó 2014, en soledad, lejos de su familia y de su obra, como [explica el obituario de La Opinión de Murcia](https://www.laopiniondemurcia.es/comunidad/2017/05/07/adios-profeta-montana-azul-31892078.html). Hasta aquí está documentada la vida de un auténtico _personaje especial murciano_ como fue Diego.
 
 # Un gran archivo documental
 
@@ -386,7 +386,7 @@ Por último, el que tengo dudas, es un [canal con ediciones en Loquendo](https:/
 
 ![monte26](./monte26.png "Comentarios del vídeo")
 
-Un último apunte respecto al tercer canal, sobre el comentario que dice "Dijo que siempre sería nuestro amigo, pero que no podía seguir en contacto con nosotros debido a motivos supremos [...]", quizá sea una idea descabellada, pero me gustaría pensar que estos _amigos_ fueran los del grupo de espiritismo al que Diego asisitió un tiempo pero terminó dejando porque no le convencía.
+Un último apunte respecto al tercer canal, sobre el comentario que dice "Dijo que siempre sería nuestro amigo, pero que no podía seguir en contacto con nosotros debido a motivos supremos [...]", quizá sea una idea descabellada, pero me gustaría pensar que estos _amigos_ fueran los del grupo de espiritismo al que Diego asistió un tiempo pero terminó dejando porque no le convencía.
 
 > Subí al Cabezo, al pie de la cruz, como hacia muy a menudo y una chica que es francesa y tiene mas hermanos y hermanas, que viven subiendo la cuesta antes del pavo a la derecha, Me dijo ¿Tú sabes? ¿Quién eres? Y yo, con seguridad, le dije Jesucristo. Y me dijo, que ya lo sabía ella y sus hermanos, que son de la época de Jesucristo del pasado y que se comunican conmigo telepáticamente, desde niños y que me llaman el hermano Mayor y que yo les había comunicado que me verían como Jesucristo en el Cabezo de la Cruz y fueron todos a verme. Después fuimos quedando para hablar de este tema y me comentaron que yo venía al mundo para destruir la Iglesia Católica y que me entraría la energía del cristo del pasado, presente y futuro. Ellos tenían una habitación donde realizaban sesiones de retrocesiones o algo parecido. Pues me hicieron ir y me taparon los ojos y yo tenía que decir, ves piedras y son mis miedos, etc…. Al final no me convenció ese rollo y los dejé y no nos volvimos a ver.
 
@@ -401,12 +401,6 @@ Por otro lado, está todas las entrevistas que le hicieron cuando su obra se hiz
 {{< /rawhtml >}}
 
 También hay entrevistas de la Agencia EFE, TVM, televisión española, Antena 3... Todos estos se pueden encontrar en un canal de YouTube [cuyo contenido son únicamente entrevistas a Diego](https://www.youtube.com/@router2512).
-
-No estoy subiendo las entrevistas en orden cronológico, pero hay un detalle que quiero señalar, se aprecia en esta entrevista del 2001 a Diego está en mejor estado que en sus últimos vídeos del canal personal.
-
-{{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ctaHc-JzPMk?si=zNrJZBfL2-Ql9ezR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-{{< /rawhtml >}}
 
 Obviamente, también hubo artículos sobre la montaña azul, sin entrevistas personales, como se puede consultar al final de este artículo en la colección de fuentes que he ido recopilando.
 
@@ -432,7 +426,7 @@ Este sinfín de infortunios y desventuras hicieron mella en su salud, tanto fís
 
 Asimismo, ya que era ignorado por ser considerado un loco sin más bondades, poca gente pone en valor la obra de arte que hizo: pintar toda una montaña y su entorno simulando el cielo.
 
-He leído comentarios que desvirtúan la obra o que la cuestionan por su impacto ecológico y paisasístico. En lo que se refiere a ambas, no veo esta pintura mucho más diferente [del Bosque de Oma en el País Vasco](https://es.wikipedia.org/wiki/Bosque_de_Oma). Y sin embargo, dicho bosque es celebrado como una obra de arte, mientras que la montaña azul está en un estado de abandono lamentable, tanto por parte de algunos vecinos que no la cuidan como deberían, o peor aún, por parte de la alcaldía o el ayuntamiento que tampoco le dan ninguna importancia.
+He leído comentarios que desvirtúan la obra o que la cuestionan por su impacto ecológico y paisajístico. En lo que se refiere a ambas, no veo esta pintura mucho más diferente [del Bosque de Oma en el País Vasco](https://es.wikipedia.org/wiki/Bosque_de_Oma). Y sin embargo, dicho bosque es celebrado como una obra de arte, mientras que la montaña azul está en un estado de abandono lamentable, tanto por parte de algunos vecinos que no la cuidan como deberían, o peor aún, por parte de la alcaldía o el ayuntamiento que tampoco le dan ninguna importancia.
 
 ¿Y por qué el trabajo de Diego sufre esta incomprensión? Mi única explicación es que debido a los problemas mentales del autor, nadie nunca les ha tomado en serio, tanto a él como a su obra...
 
