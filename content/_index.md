@@ -9,8 +9,8 @@ I'm a Computer Engineer from Murcia, Spain.
 I enjoy nature, culture and computers.
 
 Unless stated otherwise, all my original content is licensed under:
-  * [Media: CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-  * [Code: GPL-3.0-only](https://choosealicense.com/licenses/gpl-3.0/)
+  * Media: [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+  * Code: [GPL-3.0-only](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## social
 

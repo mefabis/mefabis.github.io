@@ -1,0 +1,15 @@
+#+title: Eduardo's personal blog
+* How to develop
+Only a recent version of Hugo is needed to build this page.
+The [[https://github.com/mefabis/hugo-theme-nostyleplease][theme used]] is provided as a submodule, to get it you need to run the following:
+#+BEGIN_SRC
+$ git submodule update --init --recursive
+#+END_SRC
+As a convenient way to get the dependencies, a Nix flake is provided. It needs the new CLI and Flakes enabled to be used:
+#+BEGIN_SRC
+$ nix develop
+#+END_SRC
+* License
+Unless state otherwise, the following licenses apply:
+- Code: [[https://choosealicense.com/licenses/gpl-3.0/][GPL-3.0-only]]
+- Media: [[https://creativecommons.org/licenses/by-sa/4.0/][CC-BY-SA-4.0]]
