@@ -17,6 +17,9 @@ Unless stated otherwise, all my original content is licensed under:
 [rss](index.xml)
 
 [email](mailto:<eduardo@monte.blue>)
+* [GPG key](/files/eduardo-at-monte-blue.asc)
+* GPG fingerprint `CABC 7090 3290 17FD B769  783F 78A2 FAF7 8654 B957`
+
 
 [git](https://github.com/mefabis)
 
