@@ -24,73 +24,73 @@ En la pedanía de Cabezo de Torres, al norte del municipio de Murcia (España), 
 
 Es conocida como la Montaña Azul, por motivos obvios.
 
-![monte00](./monte00.jpg "La montaña azul vista desde el jardín frente a la iglesia, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+![La montaña azul vista desde el jardín frente a la iglesia, fechado en 2015.](./monte00.jpg "La montaña azul vista desde el jardín frente a la iglesia, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
 
-![monte01](./monte01.jpg "Plano cercano a la montaña, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+![Plano cercano a la montaña, fechado en 2015.](./monte01.jpg "Plano cercano a la montaña, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
 
 Fue pintada por Diego, vecino de la pedanía. Comenzó en 1999 hasta 2003, a lo que siguió un parón de cinco años hasta 2008 cuando Diego volvió para añadir, entre otras cosas, el color blanco para simular unos picos nevados.
 
-![monte08](./monte08.jpg "Palomares y montaña pintados, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+![Palomares y montaña pintados, fechado en 2011.](./monte08.jpg "Palomares y montaña pintados, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
 
-![monte09](./monte09.jpg "Cruz que corona la montaña, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+![Cruz que corona la montaña, fechado en 2011.](./monte09.jpg "Cruz que corona la montaña, fechado en 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
 
 Si contamos toda la extensión del montículo, aunque hayas partes más decoradas que otras, ocupa aproximadamente 9920 metros cuadrados. Se encuentra en el barrio del Cabezo de la Cruz. Al encontrarse en lo alto de una colina, añadido que Murcia está en un valle, se puede ver desde bien lejos, por ejemplo desde la rotonda de los cubos de Murcia se ve con claridad.
 
-![monte10](./monte10.jpg "Plano aéreo de la obra, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
+![Plano aéreo de la obra, fechado en 2015.](./monte10.jpg "Plano aéreo de la obra, fechado en 2015. [Fuente](https://espanabizarra.tumblr.com/post/118387192226/montana-azul-cabezo-torres)")
 
-![monte16](./monte16.webp "Vistas desde lo alto del promontorio, diciembre 2024. Fuente propia")
+![Vistas desde lo alto del promontorio, diciembre 2024.](./monte16.webp "Vistas desde lo alto del promontorio, diciembre 2024. Fuente propia")
 
-![monte33](./monte33.jpg "Vistas a unos 700 o más metros de la montaña, por el Carril Gregorios, tomada sobre el 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Vistas a unos 700 o más metros de la montaña, por el Carril Gregorios, tomada sobre el 2010.](./monte33.jpg "Vistas a unos 700 o más metros de la montaña, por el Carril Gregorios, tomada sobre el 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
 No solo pintó la montaña, también decoró muros, rejas, canaletas, etc.
 
 Me pasé en diciembre del año pasado a fotografiar la zona, como muestro a continuación. El paso del tiempo y la total dejadez de las administraciones ha propiciado la erosión de muchas partes de la obra.
 
-![monte34](./monte34.jpg "Muro con mensaje de bienvenida, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Muro con mensaje de bienvenida, 2010.](./monte34.jpg "Muro con mensaje de bienvenida, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte11](./monte11.webp "Muro con mensaje de bienvenida, diciembre 2024. Fuente propia")
+![Muro con mensaje de bienvenida, diciembre 2024.](./monte11.webp "Muro con mensaje de bienvenida, diciembre 2024. Fuente propia")
 
-![monte36](./monte36.jpg "Muro con los planetas, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Muro con los planetas, 2010.](./monte36.jpg "Muro con los planetas, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte12](./monte12.webp "Muro con los planetas, diciembre 2024. Fuente propia")
+![Muro con los planetas, diciembre 2024.](./monte12.webp "Muro con los planetas, diciembre 2024. Fuente propia")
 
-![monte28](./monte28.jpg "Aparcamiento de la zona, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Aparcamiento de la zona, 2010.](./monte28.jpg "Aparcamiento de la zona, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte20](./monte20.webp "Aparcamiento de la zona, diciembre 2024. Fuente propia")
+![Aparcamiento de la zona, diciembre 2024.](./monte20.webp "Aparcamiento de la zona, diciembre 2024. Fuente propia")
 
-![monte13](./monte13.webp "Inicio de la subida a la cruz, diciembre 2024. Fuente propia")
+![Inicio de la subida a la cruz, diciembre 2024.](./monte13.webp "Inicio de la subida a la cruz, diciembre 2024. Fuente propia")
 
-![monte37](./monte37.jpg "Cruz pintada en lo alto de la subida, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Cruz pintada en lo alto de la subida, 2010.](./monte37.jpg "Cruz pintada en lo alto de la subida, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte14](./monte14.webp "Cruz pintada en lo alto de la subida, diciembre 2024. Fuente propia")
+![Cruz pintada en lo alto de la subida, diciembre 2024.](./monte14.webp "Cruz pintada en lo alto de la subida, diciembre 2024. Fuente propia")
 
-![monte15](./monte15.webp "Planos de la montaña azul, diciembre 2024. Fuente propia")
+![Planos de la montaña azul, diciembre 2024.](./monte15.webp "Planos de la montaña azul, diciembre 2024. Fuente propia")
 
-![monte17](./monte17.webp "Primer plano de la cruz, diciembre 2024. Fuente propia")
+![Primer plano de la cruz, diciembre 2024.](./monte17.webp "Primer plano de la cruz, diciembre 2024. Fuente propia")
 
-![monte38](./monte38.jpg "Pie de la cruz, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Pie de la cruz, 2010.](./monte38.jpg "Pie de la cruz, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte18](./monte18.webp "Pie de la cruz, diciembre 2024. Fuente propia")
+![Pie de la cruz, diciembre 2024.](./monte18.webp "Pie de la cruz, diciembre 2024. Fuente propia")
 
-![monte19](./monte19.webp "Parte lateral de la montaña vista desde arriba, diciembre 2024. Fuente propia")
+![Parte lateral de la montaña vista desde arriba, diciembre 2024.](./monte19.webp "Parte lateral de la montaña vista desde arriba, diciembre 2024. Fuente propia")
 
-![monte30](./monte30.jpg "Detalles laterales del aparcamiento, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Detalles laterales del aparcamiento, 2010.](./monte30.jpg "Detalles laterales del aparcamiento, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte22](./monte22.webp "Detalles laterales del aparcamiento, diciembre 2024. Fuente propia")
+![Detalles laterales del aparcamiento, diciembre 2024.](./monte22.webp "Detalles laterales del aparcamiento, diciembre 2024. Fuente propia")
 
-![monte39](./monte39.jpg "Barandillas pintadas, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Barandillas pintadas, 2010.](./monte39.jpg "Barandillas pintadas, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte25](./monte25.webp "Barandillas pintadas, diciembre 2024. Fuente propia")
+![Barandillas pintadas, diciembre 2024.](./monte25.webp "Barandillas pintadas, diciembre 2024. Fuente propia")
 
-![monte31](./monte31.jpg "La casa de Diego, autor de la montaña azul, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![La casa de Diego, autor de la montaña azul, 2010.](./monte31.jpg "La casa de Diego, autor de la montaña azul, 2010. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
-![monte23](./monte23.webp "La casa de Diego, autor de la montaña azul, diciembre 2024. Fuente propia")
+![La casa de Diego, autor de la montaña azul, diciembre 2024.](./monte23.webp "La casa de Diego, autor de la montaña azul, diciembre 2024. Fuente propia")
 
-![monte24](./monte24.webp "Más detalles de la casa, diciembre 2024. Fuente propia")
+![Más detalles de la casa, diciembre 2024.](./monte24.webp "Más detalles de la casa, diciembre 2024. Fuente propia")
 
-![monte04](./monte04.jpg "El buzón de la casa de Diego, 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+![El buzón de la casa de Diego, 2011.](./monte04.jpg "El buzón de la casa de Diego, 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
 
-![monte05](./monte05.webp "El buzón de la casa de Diego, diciembre 2024. Fuente propia")
+![El buzón de la casa de Diego, diciembre 2024.](./monte05.webp "El buzón de la casa de Diego, diciembre 2024. Fuente propia")
 
 Como habrás podido apreciar, la obra emana una aura mística, con el dibujo de crucifijos, el aspecto relativamente medieval o la representación de los planetas.
 
@@ -102,7 +102,7 @@ El autor de esta obra fue Diego López Martínez, alias El Profeta, protagonista
 
 Nació el 28 de agosto del 1964, creció en Cabezo de Torres junto a su hermano mayor, Matías, y a su madre, Asunción. Su padre, también Matías, falleció en un accidente de moto a los pocos meses de nacer.
 
-![monte02](./monte02.jpg "Diego el Profeta. [Fuente](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html)")
+![Diego el Profeta.](./monte02.jpg "Diego el Profeta. [Fuente](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html)")
 
 ¿Cómo sé todo esto? Fácil, porque escribió [gran parte de su vida en un blog](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html). Es bastante extenso (tiene 24609 palabras). Aquí iré resumiendo los detalles más interesantes de su vida, intercalando con citas del mismo texto y documentación que he ido recopilando.
 
@@ -362,7 +362,7 @@ Pasó el resto de sus días en Tenerife, falleció sobre el 2013 ó 2014, en sol
 
 Llegados a este punto, debería hablar de todas las fuentes. Realmente merece su propio apartado, dada la ingente cantidad de información disponible sobre la obra. Uno se hace la idea ya con todo lo redactado anteriormente, pero me gustaría enseñar, primero de todo, la imagen de a continuación, un cartel que escribió el mismo Diego.
 
-![monte03](./monte03.jpg "Cartel colgado en la fachada de su casa en la Calle de la Cruz, 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
+![Cartel colgado en la fachada de su casa en la Calle de la Cruz, 2011.](./monte03.jpg "Cartel colgado en la fachada de su casa en la Calle de la Cruz, 2011. [Fuente](https://spacesarchives.org/explore/search-the-online-collection/diego-lopez-martinez/)")
 
 Como bien explica el cartel, escribió [su vida en un blog](https://diegoelprofeta.blogspot.com/2009/05/el-por-que-pinte-una-montana-de-azul.html), pero también subió más de 900 vídeos a YouTube en, hasta donde he podido indagar, dos canales y uno más que tengo dudas.
 
@@ -384,7 +384,7 @@ Como bien explica el cartel, escribió [su vida en un blog](https://diegoelprofe
 
 Por último, el que tengo dudas, es un [canal con ediciones en Loquendo](https://www.youtube.com/@InvocacionesMarianas). Por ejemplo, en [este vídeo](https://youtu.be/5Tl6_4L9lrM), si se leen los comentarios del autor, no queda claro si es una parodia, algún auténtico seguidor de Diego o el mismo profeta haciéndose pasar por otra persona.
 
-![monte26](./monte26.png "Comentarios del vídeo")
+![Comentarios del vídeo.](./monte26.png "Comentarios del vídeo.")
 
 Un último apunte respecto al tercer canal, sobre el comentario que dice "Dijo que siempre sería nuestro amigo, pero que no podía seguir en contacto con nosotros debido a motivos supremos [...]", quizá sea una idea descabellada, pero me gustaría pensar que estos _amigos_ fueran los del grupo de espiritismo al que Diego asistió un tiempo pero terminó dejando porque no le convencía.
 
@@ -410,7 +410,7 @@ Más allá de la prensa, fue famoso en internet, era mencionado en [los foros](h
 
 Quiero destacar especialmente el trabajo de Juan Manuel, por interesarse ya por su obra en el 2010 o antes seguramente, tanto como para dedicar el tiempo y la dedicación de un TFM. En su trabajo analiza las diferentes fuentes documentales que yo también he ido mencionando por aquí, realiza un análisis más técnico y elaborado sobre su obra, a la que califica de _arte marginal_, razonando por qué la clasifica de esta manera y añade también su propia documentación de la obra, tanto con fotos de la montaña y su entorno, como de encuestas que realizó en el colegio Salesianos del Cabezo de Torres sobre el conocimiento y opinión de los alumnos acerca de la obra.
 
-![monte27](./monte27.png "Una de las encuestas del TFM. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
+![Una de las encuestas del TFM.](./monte27.png "Una de las encuestas del TFM. [Fuente](https://digitum.um.es/digitum/bitstream/10201/16620/1/LA%20MONTANA%20AZUL%20REINON%20MUNOZ.pdf)")
 
 Sin el trabajo de documentación de todas estas personas, no habría un archivo tan detallado de cómo fue la vida de Diego o del estado de la montaña azul cuando fue concebida.
 
