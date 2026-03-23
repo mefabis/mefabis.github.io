@@ -18,7 +18,11 @@ Unless stated otherwise, all my original content is licensed under:
 
 [email](mailto:<eduardo@monte.blue>)
 
-[git](https://github.com/mefabis)
+[codeberg](https://codeberg.org/zagal)
+
+[github](https://github.com/mefabis)
+
+[mastodon](https://mastodon.social/@baladre)
 
 [bluesky](https://bsky.app/profile/monte.blue)
 
