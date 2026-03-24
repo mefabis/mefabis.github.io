@@ -8,7 +8,7 @@ This is the write up of the initial commit of [this repository](https://codeberg
 
 # A childhood desire
 
-This project was on my wish list for really, really long. Specifically, since [this video](https://youtu.be/IJITJ1DMB8E) was release on January 11, 2013. At the time of the release, I was too young to build an arcade controller myself.
+This project was on my wish list for really, really long. Specifically, since [this video](https://youtu.be/IJITJ1DMB8E) was released on January 11, 2013. At the time of the release, I was too young to build an arcade controller myself.
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IJITJ1DMB8E?si=-dHXk7g0sRcUgjW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,13 +28,13 @@ To build it, you need the following components:
 
 Online there are lots of resources showing how components behave. Some brands are easier to find reviews than other.
 
-I want to highlight this [video comparing pouplar brands of buttons and joysticks of the sector](https://youtu.be/-2x1A4YytnM). I think the author makes a really good job.
+I want to highlight this [video comparing popular brands of buttons and joysticks of the sector](https://youtu.be/-2x1A4YytnM). I think the author makes a really good job.
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-2x1A4YytnM?si=sswtvvm65zQmISBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 
-As for the case, there are multiple DIY videos, but this one [assmebling an arcade stick with clear components](https://youtu.be/Fq0rY3h4FYk) brings me memories. I miss this trend, back in the day having a clear PS2 controller was the peak of customization. Also, among the options for the case, it can even be [3D printed with a model](https://www.thingiverse.com/thing:2755015).
+As for the case, there are multiple DIY videos, but this one [assembling an arcade stick with clear components](https://youtu.be/Fq0rY3h4FYk) brings me memories. I miss this trend, back in the day having a clear PS2 controller was the peak of customization. Also, among the options for the case, it can even be [3D printed with a model](https://www.thingiverse.com/thing:2755015).
 
 Honestly, this project could have been just buying the components, plugged them together and I'm done, like in [this video](https://youtu.be/nHJm_yh6q0M?si=YjFHs433h5yIqiwt).
 
@@ -69,13 +69,13 @@ Thankfully, for Open Source Hardware projects, there is [one free VID](https://p
 
 I chose VID `0x1209` from the <https://pid.codes> initiative and PID `0x0002`, which is reserved for testing purposes.
 
-The other relevant point is how HID actually announces its capabilities to the host and sends the data. The Report Descriptor fits this purpose. It's an array of 8 bit unsigned integers that follows a specific format as defined by the USB standard. I found useful this [table with lots of common HID values](https://www.freebsddiary.org/APC/usb_hid_usages), and the Linux guide perfectly explains.
+The other relevant point is how HID actually announces its capabilities to the host and sends the data. The Report Descriptor fits this purpose. It's an array of 8 bit unsigned integers that follows a specific format as defined by the USB standard. I found useful this [table with lots of common HID values](https://www.freebsddiary.org/APC/usb_hid_usages).
 
 How hosts see a game controller? There are multiple ways depending on the platform. For example, this [open source project](https://github.com/OpenStickCommunity/GP2040-CE) advertises support for D-Input, X-Input, Nintendo Switch, Playstation 4, etc., or [this other project](https://github.com/joypad-ai/joypad-os) supports even older hardware.
 
-So the ecosystem is kinda fragmented. I'm implementing this from zero, so for now I want to target PC. On PC, there are two standards, the old Direct Input and the new X-Input, each with their trade offs. Direct Input is how peripherals work over HID, and it's supported in most PC games as far as I know, and X-Input is a Microsoft solution that doesn't use HID but it's popular because it's supposedly easier to use for desktop apps. I find this [repository](https://github.com/MysteriousJ/Joystick-Input-Examples) insightful for more information on this topic.
+So the ecosystem is kinda fragmented. I'm implementing this from zero, so for now I want to target PC. On PC, there are two standards, the old Direct Input and the new X-Input, each with their trade offs. Direct Input relies on peripherals to work over HID, and it's supported in most PC games as far as I know, and X-Input is a Microsoft solution that doesn't rely HID but it's popular because it's supposedly easier to use for desktop apps. I find this [repository](https://github.com/MysteriousJ/Joystick-Input-Examples) insightful for more information on this topic.
 
-I decided to go with Direct Input, because it's easier to implement from the peripheral side. As for X-Input, I wonder if it became popular because it actually made it easier for desktop developers or because Microsoft, its creator, pushed for it. In any case, in the future I would like to implement it as well.
+I decided to support the Direct Input API, because it's easier to implement from the peripheral side, it's just making a basic HID Report Descriptor for a joystick. As for X-Input, I wonder if it became popular because it actually made it easier for desktop developers or because Microsoft, its creator, pushed for it. In any case, in the future I would like to implement it as well.
 
 # Let's build!
 
