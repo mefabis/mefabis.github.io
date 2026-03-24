@@ -44,11 +44,15 @@ Honestly, this project could have been just buying the components, plugged them 
 
 But I didn't find appealing this approach now that I have some knowledge in electronics...
 
+Where can I apply my knowledge on electronics for this project? The only part that requires software I can write is the encoder. What an encoder does can be seen in the video below.
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WQh3xrT_47A?si=J5ho-QPImCsuO07r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 For this reason, I decided to write myself the software of the encoder in a microcontroller (uC). Now, I have to learn how a peripheral communicates to a host.
 
-TODO: show different commercial encoder brands or open source established alternatives
-
-# Adquired knowledge on USB peripherals 
+# Adquired knowledge on USB peripherals
 
 To begin with, there is something called Human Interface Device (HID) which is a standard to show to the host the capabilities of the peripheral. The best resource I found so far related to this is the [Linux kernel guide on HID](https://www.kernel.org/doc/html/latest/hid/index.html).
 
@@ -58,14 +62,14 @@ Operating systems (OS) don't need to implement a driver for every single periphe
 
 Sometimes even using HID there is some additional functionality the OS doesn't provide, so drivers might be needed, as it can be seen in this [folder in the Linux tree](https://github.com/torvalds/linux/tree/master/drivers/hid). This is out of my scope, for now, I don't expect to add any uncommon functionality to the arcade stick.
 
-Peripherals need a way to identify itself to the host. I assume this is to make OS easier to find the matching driver for a specific peripheral. For this purpose, there is a Vendor ID (VID) and a Product ID (PID). When you commercialize a product, you must set each of those, so consumer's computers don't confuse one peripheral with another.
+Peripherals need a way to identify themselves to the host. I assume this is to make the OS easier to find the matching driver for a specific peripheral. For this purpose, there is a Vendor ID (VID) and a Product ID (PID). When you commercialize a product, you must set each of those, so consumer's computers don't confuse one peripheral with another.
 
 This VID is set per company, and [costs money](https://www.usb.org/getting-vendor-id), so an initial sum is required if one desires to sell peripherals; this is not my case. Also, there are [online lists of VID](https://usb-ids.gowdy.us/) to find what code belongs to who.
 Thankfully, for Open Source Hardware projects, there is [one free VID](https://pid.codes/) available for those willing to follow its guidelines.
 
 I chose VID `0x1209` from the <https://pid.codes> initiative and PID `0x0002`, which is reserved for testing purposes.
 
-The other relevant point is how HID actually announces its capabilities to the host and sends the data. The Report Descriptor fits this purpose. It's an array of 8 bit unsigned integers that follows a specific format as defined by the USB standard. Again, the Linux guide perfectly explains this so I'll focus on the arcade stick.
+The other relevant point is how HID actually announces its capabilities to the host and sends the data. The Report Descriptor fits this purpose. It's an array of 8 bit unsigned integers that follows a specific format as defined by the USB standard. I found useful this [table with lots of common HID values](https://www.freebsddiary.org/APC/usb_hid_usages), and the Linux guide perfectly explains.
 
 How hosts see a game controller? There are multiple ways depending on the platform. For example, this [open source project](https://github.com/OpenStickCommunity/GP2040-CE) advertises support for D-Input, X-Input, Nintendo Switch, Playstation 4, etc., or [this other project](https://github.com/joypad-ai/joypad-os) supports even older hardware.
 
@@ -154,18 +158,20 @@ How can I interpret all of this information easily? Thankfully, there are even [
 0xC0,       // End Collection
 ```
 
-We can see there are two axis, each of 8 bits, of a joystick that ranges from values `0x00` to `0xFF`, and 10 buttons, 1 bit for each, that can be pressed or not.
+We can see there are two axis, each of 8 bits, that range from values `0x00` to `0xFF`, and 10 buttons, 1 bit for each, that can be pressed or not.
 Because it adds up to `8 * 2 + 1 * 10 = 26 bits`, it requires 6 additional bits for alignment to a whole byte.
 
 I arrived at the layout you see after trial and error, reading the HID Report Descriptor from multiple controllers and asking AI. It took me a week because most controller announce even capabilities it doesn't have, and replicating them led to my Linux host not recognizing my layout. For example, I dumped the content of an AliExpress arcade encoder, and it announced two joysticks when it only offers one, so the second one was set with constants. What worked for me at the end was just to describe what I want, 2 axis for one joystick and 10 buttons, and it worked perfectly.
 
 Defining the HID Report Descriptor is really the tricky part about this. The rest of the code consists of setting up the communication to the host, reducing the latency between reports to the minimum, and sending an HID Report that correctly fits the description.
 
+Once we have a working controller, it can be tested in multiple ways, either in a videogame, or the OS settings, or even with HTML tester like [this one](https://joypad.ai/) or [this one](https://greggman.github.io/html5-gamepad-test/).
+
 # Some notes on Rust for embedded
 
 This last task, fitting the description, can be done in C++ with [bit-field packing of class data members](https://en.cppreference.com/w/cpp/language/bit_field.html) and casting the struct to a simple memory address, so when sent it reinterprets the data in the order stated in the struct. There is no explicit control of endianness, but it does the work if you are careful.
 
-In Rust I didn't find a native way to define bit fields, and such casting would likely be forbidden for memory safety reasons. I'm not 100 % sure of these two last statements. Anyway, I decided to rely on an external crate. I tried three:
+In Rust I didn't find a native way to define bit fields, and such casting would likely be forbidden for memory safety reasons, though I'm not 100 % sure of these last two statements. Anyway, I decided to rely on an external crate. I tried three:
 
 - [packed_struct](https://crates.io/crates/packed_struct): this allows for explicit endianness within struct fields. It also allows for arbitrary length integers. I didn't use this one because it doesn't offer a [fluent interface](https://en.wikipedia.org/wiki/Fluent_interface) for the fields or the ability to choose endianness when turning the struct into an array when I want to send the information.
 - [modular-bitfiled](https://crates.io/crates/modular-bitfield): less verbose than the previous one and with fluent interface, but without the ability to set the endianness, either within the struct or when generating the array. This is a big no.
