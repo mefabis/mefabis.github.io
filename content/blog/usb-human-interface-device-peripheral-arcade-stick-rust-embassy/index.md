@@ -158,8 +158,9 @@ How can I interpret all of this information easily? Thankfully, there are even [
 0xC0,       // End Collection
 ```
 
-We can see there are two axis, each of 8 bits, that range from values `0x00` to `0xFF`, and 10 buttons, 1 bit for each, that can be pressed or not.
-Because it adds up to `8 * 2 + 1 * 10 = 26 bits`, it requires 6 additional bits for alignment to a whole byte.
+We can see there are 10 buttons, 1 bit for each, that can be pressed or not. There are also two axis, each of 8 bits, that range from values `0x00` to `0xFF`. About the axis, an arcade joystick consist of 4 buttons that mimics the direction where the lever is pushed. So technically there is no need for 8 bits for each axis when each button of the joystick could be shown as pressed or not. The problem here is modern applications and videogames expect a joystick to be two axis, not buttons. We can trick this by just returning the values `0x00` for one edge of the axis, `0xFF` for the other edge of the same axis, and `0x80` to represent no action in the axis.
+
+One last thing, because it adds up to `8 * 2 + 1 * 10 = 26 bits`, it requires 6 additional bits for alignment to a whole byte.
 
 I arrived at the layout you see after trial and error, reading the HID Report Descriptor from multiple controllers and asking AI. It took me a week because most controller announce even capabilities it doesn't have, and replicating them led to my Linux host not recognizing my layout. For example, I dumped the content of an AliExpress arcade encoder, and it announced two joysticks when it only offers one, so the second one was set with constants. What worked for me at the end was just to describe what I want, 2 axis for one joystick and 10 buttons, and it worked perfectly.
 
