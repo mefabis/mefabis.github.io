@@ -11,7 +11,7 @@ This is the write up of the initial commit of [this repository](https://codeberg
 This project was on my wish list for really, really long. Specifically, since [this video](https://youtu.be/IJITJ1DMB8E) was released on January 11, 2013. At the time of the release, I was too young to build an arcade controller myself.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IJITJ1DMB8E?si=-dHXk7g0sRcUgjW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IJITJ1DMB8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 After so much time, gaining experience in embedded development, and having some spare time, I decided to materialize it.
@@ -30,16 +30,16 @@ Online there are lots of resources showing how components behave. Some brands ar
 
 I want to highlight this [video comparing popular brands of buttons and joysticks of the sector](https://youtu.be/-2x1A4YytnM). I think the author makes a really good job.
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-2x1A4YytnM?si=sswtvvm65zQmISBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-2x1A4YytnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 
 As for the case, there are multiple DIY videos, but this one [assembling an arcade stick with clear components](https://youtu.be/Fq0rY3h4FYk) brings me memories. I miss this trend, back in the day having a clear PS2 controller was the peak of customization. Also, among the options for the case, it can even be [3D printed with a model](https://www.thingiverse.com/thing:2755015).
 
-Honestly, this project could have been just buying the components, plugged them together and I'm done, like in [this video](https://youtu.be/nHJm_yh6q0M?si=YjFHs433h5yIqiwt).
+Honestly, this project could have been just buying the components, plugged them together and I'm done, like in [this video](https://youtu.be/nHJm_yh6q0M).
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nHJm_yh6q0M?si=K7McgsXfiThoNJJT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nHJm_yh6q0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 But I didn't find appealing this approach now that I have some knowledge in electronics...
@@ -47,7 +47,7 @@ But I didn't find appealing this approach now that I have some knowledge in elec
 Where can I apply my knowledge on electronics for this project? The only part that requires software I can write is the encoder. What an encoder does can be seen in the video below.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WQh3xrT_47A?si=J5ho-QPImCsuO07r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WQh3xrT_47A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 For this reason, I decided to write myself the software of the encoder in a microcontroller (uC). Now, I have to learn how a peripheral communicates to a host.

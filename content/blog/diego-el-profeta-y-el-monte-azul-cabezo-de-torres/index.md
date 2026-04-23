@@ -124,17 +124,17 @@ Me voy a desviar un momento de la historia de Diego con lo siguiente. En estos l
 Menchu, de Murcia... Quien tenga algo de cultura española televisiva igual ha adivinado quién es. Salió en Callejeros. Es toda una diva, tiene mucho estilo.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FN2-SbuY1_s?si=pLGuxcF_FSoebIdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FN2-SbuY1_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 Investigando un poco más sobre ella, di con una entrevista que le hicieron, dividida en dos vídeos.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CwLn0S5wY6A?si=FXz7pDLsY9q0ToER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CwLn0S5wY6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3X9PXA6Kc6I?si=8MZT6aJdh1DXl8if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3X9PXA6Kc6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 El último registro con el que he dado sobre ella es del 12 de marzo de 2022, me alegra saber que está bien. Es sobre unos trabajadores de Cabify que la reconocieron y se grabaron con ella.
@@ -239,29 +239,29 @@ Entonces, La Opinión de Murcia escribió un artículo sobre el suceso, un hombr
 En Antena 3:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qzEvdwIBpo4?si=Jm4x20OBkjZ-kx7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qzEvdwIBpo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 En Telecinco:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DcxwqD9PDPY?si=BikIBaH1h0BnaYrT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DcxwqD9PDPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 En TV1:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ttKSzMR94-w?si=fI4smRySHcUXWt6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ttKSzMR94-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 En TVM, dividido en dos partes:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ctaHc-JzPMk?si=viNEAVeSyr9RgPfv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ctaHc-JzPMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T4Cs83ZyKLw?si=5e63A2fOefgwmdQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T4Cs83ZyKLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 Por último, se menciona una entrevista en Crónicas Marcianas que no he podido encontrar.
@@ -327,17 +327,17 @@ En esta ocasión también vinieron medios de comunicación, como La Verdad, La O
 En la agencia EFE:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x53hkLRt0q4?si=MR_C0ptt-EugmOea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x53hkLRt0q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 En 7 Región de Murcia, he encontrado dos entrevistas:
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OK0PlZROD4Y?si=DCAjfmJ0A6x1Xt73" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OK0PlZROD4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vk8O_eLhHLs?si=PMz-5EJmPrt9EdK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vk8O_eLhHLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 Tuvo problemas de dinero para financiar la obra, así que con la ayuda de la prensa y la televisión recabó algo de dinero que le ayudó en su cometido. También pidió financiación imprimiendo unos _trípticos informativos_, los cuales dejaba en hoteles de la provincia.
@@ -353,7 +353,7 @@ De repente, volvió a tener otro asalto de la energía negativa que le llevó a 
 En Tenerife pensó en si marchar a tener una vida asceta en la India, o quizá en algún monasterio de por ahí, pero finalmente se asentó en una cabaña en la Montaña Roja de Tenerife, donde pasó los días y se dedicó a subir vídeos a YouTube.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoODW4su6X0?si=uPHz7uGHkMb2dZNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoODW4su6X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 Pasó el resto de sus días en Tenerife, falleció sobre el 2013 ó 2014, en soledad, lejos de su familia y de su obra, como [explica el obituario de La Opinión de Murcia](https://www.laopiniondemurcia.es/comunidad/2017/05/07/adios-profeta-montana-azul-31892078.html). Hasta aquí está documentada la vida de un auténtico _personaje especial murciano_ como fue Diego.
@@ -369,17 +369,17 @@ Como bien explica el cartel, escribió [su vida en un blog](https://diegoelprofe
 [Su primer canal](https://www.youtube.com/@diegoelprofeta3). Aquí empezó a grabarse en su día a día, predicando la palabra de Dios. Sospecho que perdió la contraseña del canal por lo que dejó de subir aquí. Por ejemplo este es su quinto vídeo.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_xBXOfUZB0?si=COz1wIozzNE3qA1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_xBXOfUZB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 [Su segundo canal](https://www.youtube.com/@3elprofeta). Aquí ya subió el resto de vídeos, siendo el último vídeo blog el número 937. Alguno de sus vídeos destacados es este donde explica su idea de la energía negativa, u otro donde canta.
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0KGW8CL1NcE?si=IsySFORlSkv76wMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0KGW8CL1NcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nbv_GUeoJZU?si=tjX390ks3gxqBrTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nbv_GUeoJZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 Por último, el que tengo dudas, es un [canal con ediciones en Loquendo](https://www.youtube.com/@InvocacionesMarianas). Por ejemplo, en [este vídeo](https://youtu.be/5Tl6_4L9lrM), si se leen los comentarios del autor, no queda claro si es una parodia, algún auténtico seguidor de Diego o el mismo profeta haciéndose pasar por otra persona.
@@ -393,11 +393,11 @@ Un último apunte respecto al tercer canal, sobre el comentario que dice "Dijo q
 Por otro lado, está todas las entrevistas que le hicieron cuando su obra se hizo viral. Hubo varios medios de comunicación, pero los que he podido encontrar son [una entrevista escrita de 20minutos](https://www.20minutos.es/noticia/373753/0/monte/cabezo/pintura/), dos entrevistas por parte de José Rafael Abellán, periodista de la 7RM, que se pueden ver [publicadas en su blog personal](https://jrabellan.blogspot.com/2013/01/diego-el-profeta.html).
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vk8O_eLhHLs?si=nUVRobZDq9d-hRB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vk8O_eLhHLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OK0PlZROD4Y?si=UW2N0A8XkucYzKMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OK0PlZROD4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 También hay entrevistas de la Agencia EFE, TVM, televisión española, Antena 3... Todos estos se pueden encontrar en un canal de YouTube [cuyo contenido son únicamente entrevistas a Diego](https://www.youtube.com/@router2512).
