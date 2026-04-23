@@ -414,6 +414,10 @@ Quiero destacar especialmente el trabajo de Juan Manuel, por interesarse ya por 
 
 Sin el trabajo de documentación de todas estas personas, no habría un archivo tan detallado de cómo fue la vida de Diego o del estado de la montaña azul cuando fue concebida.
 
+Edición del 23 de abril de 2026: aprovechando que estoy actualizando mi página, quiero mencionar que tiempo después de publicar este artículo, tuve la oportunidad de hablar con Juan Manuel, autor del TFM sobre la obra de Diego. Desde aquí quiero expresarle mi gratitud por reunirse conmigo.
+
+![Portada del TFM publicado por Juan Manuel.](./monte40.webp "Portada del TFM publicado por Juan Manuel. Fuente propia")
+
 # El legado de Diego, patrimonio del pueblo
 
 Antes de cerrar, quisiera entrar en valoraciones personales sobre la obra e influencia de nuestro querido Diego.
