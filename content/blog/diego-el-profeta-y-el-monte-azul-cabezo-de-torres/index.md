@@ -414,7 +414,7 @@ Quiero destacar especialmente el trabajo de Juan Manuel, por interesarse ya por 
 
 Sin el trabajo de documentación de todas estas personas, no habría un archivo tan detallado de cómo fue la vida de Diego o del estado de la montaña azul cuando fue concebida.
 
-Edición del 23 de abril de 2026: aprovechando que estoy actualizando mi página, quiero mencionar que tiempo después de publicar este artículo, tuve la oportunidad de hablar con Juan Manuel, autor del TFM sobre la obra de Diego. Desde aquí quiero expresarle mi gratitud por reunirse conmigo.
+Edición del 23 de abril de 2026: aprovechando que estoy actualizando mi página, quiero mencionar que tiempo después de publicar este artículo, tuve la oportunidad de hablar en persona con Juan Manuel, autor del TFM sobre la obra de Diego. Desde aquí quiero expresarle mi gratitud por reunirse conmigo y por enseñarme la encuadernación original de su trabajo, como se aprecia en la foto de a continuación.
 
 ![Portada del TFM publicado por Juan Manuel.](./monte40.webp "Portada del TFM publicado por Juan Manuel. Fuente propia")
 
