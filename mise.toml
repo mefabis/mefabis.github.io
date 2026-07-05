@@ -1,0 +1,15 @@
+[tools]
+hugo = "0.163.3"
+prek = "0.4.6"
+
+[tasks.server]
+description = "Run hugo for hot reloading"
+run = "hugo server"
+
+[tasks.build]
+description = "Build page with hugo"
+run = "hugo build"
+
+[settings]
+lockfile = true
+pin = true

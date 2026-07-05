@@ -5,9 +5,9 @@ The [[https://github.com/mefabis/hugo-theme-nostyleplease][theme used]] is provi
 #+BEGIN_SRC
 $ git submodule update --init --recursive
 #+END_SRC
-As a convenient way to get the dependencies, a Nix flake is provided. It needs the new CLI and Flakes enabled to be used:
+As a convenient way to get the dependencies, a [[https://mise.en.dev/][Mise file]] is provided:
 #+BEGIN_SRC
-$ nix develop
+$ eval "$(mise activate bash)"
 #+END_SRC
 * License
 Unless state otherwise, the following licenses apply:
