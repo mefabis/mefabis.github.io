@@ -1,8 +1,10 @@
 baseURL = 'https://monte.blue/'
-languageCode = 'en-us'
 title = 'Eduardo Martínez Martínez'
 theme = 'hugo-theme-nostyleplease'
 hasCJKLanguage = true
+
+[language]
+locale = 'en-us'
 
 [module]
   [module.hugoVersion]
