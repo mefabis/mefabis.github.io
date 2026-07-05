@@ -1,9 +1,5 @@
 repos:
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0  # Use the latest version available
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker
+    rev: v3.8.0
     hooks:
-      - id: trailing-whitespace
-        args: [--markdown-linebreak-ext=md]
-      - id: end-of-file-fixer
-      - id: mixed-line-ending
-        args: [--fix=lf]  # This will normalize to LF (Unix-style) line endings
+      - id: editorconfig-checker
