@@ -16,6 +16,8 @@ Abajo está la grabación subida a YouTube.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oLg4i48aQOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
+Hay una [copia de seguridad del vídeo](https://odysee.com/@algarrobo:9/eduardo-martinez-martinez-charla-murcia-dev-una-chispica-sobre-sistemas-embebidos:2?t=0) subida a Odysee.
+
 Y por último las diapositivas usadas en la presentación. Está licenciado bajo [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 {{< rawhtml >}}
