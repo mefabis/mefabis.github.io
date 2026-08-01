@@ -453,7 +453,7 @@ En fin, por todo esto escribo este artículo; para rendir homenaje a su legado, 
 Fuentes:
 * Si algún página no fuera accesible, hay copias de seguridad en <https://web.archive.org> o <https://archive.is>.
 * YouTube
-  * He intentado hacer una copia de seguridad de todos los vídeos de YouTube. Dicha copia no está subida en ningún sitio público, sino en mi ordenador personal.
+  * Todos los vídeos y canales mencionados en este apartado de YouTube los he guardado en esta carpeta pública de Mega: https://mega.nz/folder/24I3zY4Z#MqP5BZZRRTwxkX-nnG6EDA
   * Vídeos subidos por el mismo Diego
     * https://www.youtube.com/@diegoelprofeta3
     * https://www.youtube.com/@3elprofeta
