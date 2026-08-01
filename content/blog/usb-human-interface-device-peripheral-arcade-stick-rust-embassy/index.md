@@ -6,6 +6,8 @@ date: 2026-03-23
 
 This is the write up of the initial commit of [this repository](https://codeberg.org/zagal/mando-arcade).
 
+LLM disclosure: this article is hand written, and so is the code. But to learn how USB peripherals communicate with the host device, I checked both original sources and LLMs. This article reflects what I learned from the process.
+
 # A childhood desire
 
 This project was on my wish list for really, really long. Specifically, since [this video](https://youtu.be/IJITJ1DMB8E) was released on January 11, 2013. At the time of the release, I was too young to build an arcade controller myself.
@@ -162,7 +164,7 @@ We can see there are 10 buttons, 1 bit for each, that can be pressed or not. The
 
 One last thing, because it adds up to `8 * 2 + 1 * 10 = 26 bits`, it requires 6 additional bits for alignment to a whole byte.
 
-I arrived at the layout you see after trial and error, reading the HID Report Descriptor from multiple controllers and asking AI. It took me a week because most controller announce even capabilities it doesn't have, and replicating them led to my Linux host not recognizing my layout. For example, I dumped the content of an AliExpress arcade encoder, and it announced two joysticks when it only offers one, so the second one was set with constants. What worked for me at the end was just to describe what I want, 2 axis for one joystick and 10 buttons, and it worked perfectly.
+I arrived at the layout you see after trial and error, reading the HID Report Descriptor from multiple controllers and asking LLM to evaluate the descriptor. It took me a week because most controller announce even capabilities it doesn't have, and replicating them led to my Linux host not recognizing my layout. For example, I dumped the content of an AliExpress arcade encoder, and it announced two joysticks when it only offers one, so the second one was set with constants. What worked for me at the end was just to describe what I want, 2 axis for one joystick and 10 buttons, and it worked perfectly.
 
 Defining the HID Report Descriptor is really the tricky part about this. The rest of the code consists of setting up the communication to the host, reducing the latency between reports to the minimum, and sending an HID Report that correctly fits the description.
 
