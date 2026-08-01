@@ -24,6 +24,4 @@ Unless stated otherwise, all my original content is licensed under:
 
 [mastodon](https://mastodon.social/@baladre)
 
-[bluesky](https://bsky.app/profile/monte.blue)
-
 [linkedin](https://linkedin.com/in/eduamart)
