@@ -4,6 +4,14 @@ title = 'Eduardo Martínez Martínez'
 theme = 'hugo-theme-nostyleplease'
 hasCJKLanguage = true
 
+disableKinds = ["taxonomy", "term"]
+
+[permalinks]
+  [permalinks.section]
+    posts = "/blog/"
+  [permalinks.page]
+    posts = "/blog/:filename/"
+
 [module]
   [module.hugoVersion]
     extended=true
