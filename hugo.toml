@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   [permalinks.section]
     posts = "/blog/"
   [permalinks.page]
-    posts = "/blog/:filename/"
+    posts = "/blog/:contentbasename/"
 
 [module]
   [module.hugoVersion]
